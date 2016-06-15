@@ -10,11 +10,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   /*border: 1px dotted red !important;*/
 }
 
-/*custom*/
-/*.packages .modal-align{
-  margin: auto auto;
-}*/
-
 body{
 	padding:0;
 	margin:0;
@@ -652,12 +647,9 @@ a.cd-logo {
 
 /*-- Stats --*/
 .stats {
-	/*background: url("../images/2.jpg");*/
-  /*background: url("../images/custom/doctor-computer-working.jpg");*/
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/doctor-computer-working.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/doctor-computer-working-sm.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    /*background-position: center;*/
     background-position: top center;
     background-size: cover;
     height: 550px;
@@ -992,24 +984,6 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
     letter-spacing: 1px;
     font-weight: 300;
 }
-
-
-/*custom*/
-/*left off here*/
-/*#visual, #visual .slide-visual{
-  width: 100%;
-}
-#visual .slide-group{
-
-}
-#visual .script-group{
-  width: 100%;
-  overflow: hidden;  
-}*/
-
-/*#visual .img-responsive{
-  width: 100%;
-}*/
 
 /*-- //news --*/
 
@@ -1570,11 +1544,7 @@ div#map iframe {
 
 /*-- about-section-starts --*/
 .inner-banner {
-	/*background: url('../images/5.jpg') no-repeat 0px 0px;*/
 
-  /*background: url('../images/custom/woman_sun_pexels.jpeg') no-repeat center center;*/
-  /*background: url('../images/custom/sky-pexels-photo.jpg') no-repeat center center;*/
-  /*background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/sky-pexels-photo.jpg') no-repeat center center;*/
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/sky-pexels-photo.jpg');
   background-repeat: no-repeat; 
   background-position: center center;
@@ -1626,10 +1596,6 @@ div#map iframe {
 }
 /* happy clients */
 section.happy-patients {
-
-	/*background: url('../images/happy.jpg') no-repeat 0px 0px;*/
-
-  /*background: url('../images/custom/sunset-hands-love-woman.jpg');*/
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/sunset-hands-love-woman.jpg');
   background-repeat: no-repeat; 
   background-position: center center;
@@ -1804,9 +1770,6 @@ section.happy-patients {
 
 	border-bottom: 14px solid #2098d1;
 
-  /*custom*/
-  /*border-bottom: 14px solid #2098d1;*/
-
 }
 .happy-patients-grid-left p {
     color: #FDF6FF;
@@ -1959,12 +1922,9 @@ p.w-text {
 /*--//team--*/
 /*--who-are-we--*/
 .who-are-we {
-    /*background: url(../images/who.jpg) no-repeat 0px 0px;*/
 
     /*custom*/
-    /*background: url('../images/custom/package.jpg');*/
-    /*background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/package.jpg');*/
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/state-capitol-pink.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/state-capitol-pink-sm.jpg');
     background-repeat: no-repeat; 
     background-position: center center;
 
@@ -5273,7 +5233,6 @@ label.test-info {
 		/*width: 800px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -5615,7 +5574,6 @@ label.test-info {
 		/*width: 730px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -5801,7 +5759,6 @@ label.test-info {
 		/*width: 700px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -5815,7 +5772,6 @@ label.test-info {
 		margin-top: 0;
 	}
 	.modal-align:nth-child(3) {
-		/*margin-left:25%;*/
 		margin-top:2%;
 	}
 	.package p {
@@ -6161,7 +6117,6 @@ label.test-info {
 		/*width: 680px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}	
@@ -6177,7 +6132,6 @@ label.test-info {
 		/*width: 630px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}	
@@ -6204,7 +6158,6 @@ label.test-info {
 	.modal-dialog {
 		/*width: 600px;*/
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -6218,7 +6171,6 @@ label.test-info {
 		margin-top: 0;
 	}
 	.modal-align:nth-child(3) {
-		/*margin-left:25%;*/
 		margin-top:2%;
 	}
 	.package p {
@@ -6583,7 +6535,6 @@ label.test-info {
 	.modal-dialog {
 		/*width: 565px;*/
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -6718,7 +6669,6 @@ label.test-info {
 		/*width: 565px;*/
 
     /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
@@ -6874,7 +6824,6 @@ label.test-info {
 	.modal-dialog {
 		/*width: 530px;*/
       /*custom*/
-    /*display: none;*/
     width: 90%;
     margin: 25px auto;
 	}
