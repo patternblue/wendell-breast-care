@@ -267,20 +267,20 @@
 }
 
 .demo-2 .bg-img-1 {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/custom/women-whisper-ear-sm.jpg');
+	background-image: linear-gradient(rgba(70, 10, 20, 0.5), rgba(70, 10, 20, 0.5)), url('../images/custom/women-whisper-ear-sm.jpg');
 }
 .demo-2 .bg-img-2 {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/ribbons_and_pens_breast_cancer_awareness-sm.jpg');
+	background-image: linear-gradient( rgba(70, 10, 20, 0.5), rgba(70, 10, 20, 0.5) ), url('../images/custom/ribbons_and_pens_breast_cancer_awareness-sm.jpg');
 }
 
 .demo-2 .bg-img-3 {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/numbered-containers-pexel-sm.jpg');
+	background-image: linear-gradient( rgba(70, 10, 20, 0.5), rgba(70, 10, 20, 0.5) ), url('../images/custom/numbered-containers-pexel-sm.jpg');
 }
 .demo-2 .bg-img-4 {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/mammogram-woman2.jpg');
+	background-image: linear-gradient( rgba(70, 10, 20, 0.5), rgba(70, 10, 20, 0.5) ), url('../images/custom/mammogram-woman2.jpg');
 }
 .demo-2 .bg-img-5 {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/custom/medic-gloves-pexel-sm.jpg');
+	background-image: linear-gradient( rgba(70, 10, 20, 0.5), rgba(70, 10, 20, 0.5) ), url('../images/custom/medic-gloves-pexel-sm.jpg');
 }
 
 /* Animations for content elements */
